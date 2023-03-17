@@ -26,9 +26,9 @@ export const COMMUNITY_INVITE_URL = `https://discord.com/invite/Qx8GXtHUv2`;
 
 // See "Algolia" section of the README for more information.
 export const ALGOLIA = {
-	indexName: 'XXXXXXXXXX',
-	appId: 'XXXXXXXXXX',
-	apiKey: 'XXXXXXXXXX',
+	indexName: 'docs',
+	appId: 'PRUF2GL786',
+	apiKey: 'f2729445e25aac77252912804f04fabe',
 };
 
 export type Sidebar = Record<
