@@ -1,9 +1,9 @@
 ---
-title: "Introduction"
-description: "Docs intro"
+title: "引言"
+description: "Docs引言"
 ---
 
-**Welcome to Astro!**
+**欢迎来到BuidlerDao文档库！**
 
 This is the `docs` starter template. It contains all of the features that you need to build a Markdown-powered documentation site, including:
 

@@ -20,7 +20,7 @@ export const KNOWN_LANGUAGES = {
 } as const;
 export const KNOWN_LANGUAGE_CODES = Object.values(KNOWN_LANGUAGES);
 
-export const GITHUB_EDIT_URL = `https://github.com/BuidlerDAO/docs`;
+export const GITHUB_EDIT_URL = `https://github.com/BuidlerDAO/docs/tree/main`;
 
 export const COMMUNITY_INVITE_URL = `https://discord.com/invite/Qx8GXtHUv2`;
 
@@ -38,15 +38,24 @@ export type Sidebar = Record<
 export const SIDEBAR: Sidebar = {
 	en: {
 		'Intro': [
-			{ text: 'Introduction', link: 'en/introduction' },
-			{ text: 'Page 2', link: 'en/page-2' },
-			{ text: 'Page 3', link: 'en/page-3' },
+			{ text: 'Introduction', link: 'en/intro/introduction' }
 		],
-		"Frontend": []
+		"FrontEnd": [
+			{ text: 'Introduction', link: 'en/frontend/introduction' }
+		],
+		"BackEnd": [
+			{ text: 'Introduction', link: 'en/backend/introduction' }
+		]
 	},
 	'zh-cn': {
 		'介绍': [
-			{ text: 'Introduction', link: 'zh-cn/introduction' },
+			{ text: '引言', link: 'zh-cn/intro/introduction' },
 		],
+		"大前端": [
+			{ text: '引言', link: 'zh-cn/frontend/introduction' }
+		],
+		"大后端": [
+			{ text: '引言', link: 'zh-cn/backend/introduction' }
+		]
 	}
 };
