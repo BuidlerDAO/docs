@@ -35,27 +35,52 @@ export type Sidebar = Record<
 	(typeof KNOWN_LANGUAGE_CODES)[number],
 	Record<string, { text: string; link: string }[]>
 >;
+
 export const SIDEBAR: Sidebar = {
 	en: {
 		'Intro': [
 			{ text: 'Introduction', link: 'en/intro/introduction' }
 		],
-		"FrontEnd": [
-			{ text: 'Introduction', link: 'en/frontend/introduction' }
+		"INCUBATION": [
+			{ text: 'Introduction', link: 'en/incubation/intro' }
 		],
-		"BackEnd": [
-			{ text: 'Introduction', link: 'en/backend/introduction' }
+		"EDUCATION": [
+			{ text: 'Introduction', link: 'en/education/intro' }
+		],
+		"RESEARCH": [
+			{ text: 'Introduction', link: 'en/research/intro' }
+		],
+		"TECHNOLOGY": [
+			{ text: 'Introduction', link: 'en/technology/intro' }
+		],
+		"OPERATION": [
+			{ text: 'Introduction', link: 'en/operation/intro' }
+		],
+		"Vitae3": [
+			{ text: 'Introduction', link: 'en/vitae3/intro' }
 		]
 	},
 	'zh-cn': {
 		'介绍': [
 			{ text: '引言', link: 'zh-cn/intro/introduction' },
 		],
-		"大前端": [
-			{ text: '引言', link: 'zh-cn/frontend/introduction' }
+		"孵化公会": [
+			{ text: '引言', link: 'zh-cn/incubation/intro' }
 		],
-		"大后端": [
-			{ text: '引言', link: 'zh-cn/backend/introduction' }
+		"教育公会": [
+			{ text: '引言', link: 'zh-cn/education/intro' }
+		],
+		"投研公会": [
+			{ text: '引言', link: 'zh-cn/research/intro' }
+		],
+		"技术公会": [
+			{ text: '引言', link: 'zh-cn/technology/intro' }
+		],
+		"运营公会": [
+			{ text: '引言', link: 'zh-cn/operation/intro' }
+		],
+		"Vitae3": [
+			{ text: '引言', link: 'zh-cn/vitae3/intro' }
 		]
 	}
 };
