@@ -40,10 +40,9 @@ const githubEditUrl = `${GITHUB_EDIT_URL}/${currentFile}`;
       .layout {
         display: grid;
         grid-auto-flow: column;
-        grid-template-columns: minmax(var(--gutter), 1fr) minmax(
-            0,
-            var(--max-width)
-          ) minmax(var(--gutter), 1fr);
+        grid-template-columns:
+          minmax(var(--gutter), 1fr) minmax(0, var(--max-width))
+          minmax(var(--gutter), 1fr);
         overflow-x: hidden;
       }
 
@@ -117,19 +116,6 @@ const githubEditUrl = `${GITHUB_EDIT_URL}/${currentFile}`;
         top: 2rem;
       }
     </style>
-		<!-- head -->
-    <script type="text/partytown" async src="https://www.googletagmanager.com/gtag/js?id=G-82KG1E1CNN"
-    ></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(...arg: (string | Date)[]) {
-        dataLayer.push(arguments);
-      }
-      gtag("js", new Date());
-
-      gtag("config", "G-82KG1E1CNN");
-    </script>
-		<!-- more head -->
   </head>
 
   <body>
@@ -143,12 +129,13 @@ const githubEditUrl = `${GITHUB_EDIT_URL}/${currentFile}`;
           title={data.title}
           headings={headings}
           githubEditUrl={githubEditUrl}
+          currentPage={currentPage}
         >
           <slot />
         </PageContent>
       </div>
       <aside id="grid-right" class="grid-sidebar" title="Table of Contents">
-        <RightSidebar headings={headings} githubEditUrl={githubEditUrl} />
+        <RightSidebar currentPage={currentPage} headings={headings} githubEditUrl={githubEditUrl} />
       </aside>
     </main>
     <Footer path={currentFile} />

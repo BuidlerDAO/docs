@@ -13,4 +13,6 @@ declare global {
   var dataLayer: any;
 }
 
+declare module 'html-escaper';
+
 export {};

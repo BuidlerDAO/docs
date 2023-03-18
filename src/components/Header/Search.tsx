@@ -14,7 +14,7 @@ const useDocSearchKeyboardEvents =
 	docSearchReact.useDocSearchKeyboardEvents ||
 	(docSearchReact as any).default.useDocSearchKeyboardEvents;
 
-export default function Search() {
+export default function Search({ lang = 'en' }: { lang: string }) {
 	const [isOpen, setIsOpen] = useState(false);
 	const searchButtonRef = useRef<HTMLButtonElement>(null);
 	const [initialQuery, setInitialQuery] = useState('');
@@ -56,7 +56,7 @@ export default function Search() {
 					/>
 				</svg>
 
-				<span>Search</span>
+				<span>{lang === 'zh-cn' ? '搜索' : 'Search'}</span>
 
 				<span className="search-hint">
 					<span className="sr-only">Press </span>
