@@ -29,7 +29,7 @@ description: "BuidlerDAO Brief"
 - **FutureX**
 	- Connect the user's on-chain and off-chain data, allowing them to fully display their personal background. Help each user create a new identity combining web2 and web3 through big data analysis and soul binding NFT	on the way.
 - **[SourceDAO](http://sourcedao.io/)**
-  - Build a trusted skills certification component for Wbe3 based on DID, and provide a credible skills certification platform.
+  - Build a trusted skills certification component for Web3 based on DID, and provide a credible skills certification platform.
 - **[MetaShield](https://www.metashield.cc)**	
   - Web3 Anti-Phishing Google Chrome Plugin. Use the black and white list to check the address security, give warning and intercept high-risk transactions. Now has 1000+ users.	
 - **iSnoopy**
@@ -39,7 +39,7 @@ description: "BuidlerDAO Brief"
 - **Pix Space**
   - Web3's native Twitter Space-like application focuses on increasing the on-chain and off-chain social data of voice users, and intuitively manages users at the AMA conference. Increase the interactive forms of user rewards, and gradually penetrate into more social communication functions such as groups and chats.
 - **[Ubiloan](https://ubiloan.io)**
-  - Gamefi game asset lending agreement, the separation of ownership and use rights.
+  - GameFi game asset lending agreement, the separation of ownership and use rights.
 - **[Furion](http://furion.io)**
   - Improve the liquidity of NFT and the utilization of assets through the NFT independent pool and the aggregation pool of series NFT
 - **[Dorse](https://ethglobal.com/showcase/dorse-3maw4)**
