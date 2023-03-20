@@ -3,13 +3,13 @@ title: "In-depth Research"
 description: "In-depth Research-Research-BuidlerDao"
 ---
 
-### In-depth research is the foundation of our guild, and we use words to accumulate cognition and create volume
+### In-depth research is the foundation of our guild, and we use literal to accumulate cognition and generate momentum
 
 - We require Buidler, a researcher of the Investment Research Association, to regularly lead research projects and make solid contributions;
 - At the same time, all members of DAO are welcome to form teams freely, initiate research, and call resources in DAO for joint promotion;
 - This product is managed by researchers from the Investment Research Association.
 
-If you want to initiate in-depth research quickly, please refer to: [Buidler DAO Investment Research Project Proposal Process](https://www.notion.so/Buidler-DAO-0f5ae827318648e5a4110118b4b43d82)
+If you want to initiate a in-depth research quickly, please refer to: [Buidler DAO Investment Research Project Proposal Process](https://www.notion.so/Buidler-DAO-0f5ae827318648e5a4110118b4b43d82)
 
 ### Historical In-Depth Research
 
