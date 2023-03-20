@@ -21,12 +21,12 @@ We are a group of idealists who advocate and love web3 decentralized technology.
 
 At the same time, we are also a group of realists who pay attention to the construction of Web3. We are paying attention to, looking for, and cultivating doers and entrepreneurs.
 
-💡 **We hope you**:
+💡 **WE NEED YOU**:
 
-have a technical background
-Have the spirit of open source sharing
+Have a technical experience
+Own a spirit of open source sharing
 With engineering research and development capabilities
-Capable of technical and project research
+Ablitiy of technical and project research
 
 ### Notion
 
