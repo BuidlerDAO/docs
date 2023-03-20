@@ -52,7 +52,7 @@ export const SIDEBAR: Sidebar = {
 		"RESEARCH": [
 			{ text: 'Introduction', link: 'en/research/intro' },
 			{ text: 'Cognitive Locust Project', link: 'en/research/cognitive-locust-project' },
-			{ text: 'In-depath Research', link: 'en/research/in-depath-research' },
+			{ text: 'In-depath Research', link: 'en/research/in-depth-research' },
 			{ text: 'Hackathon Innovation Tracker', link: 'en/research/hackathon-innovation-tracker' }
 		],
 		"TECHNOLOGY": [
@@ -81,7 +81,7 @@ export const SIDEBAR: Sidebar = {
 		"投研公会": [
 			{ text: '引言', link: 'zh-cn/research/intro' },
 			{ text: '认知蝗虫计划', link: 'zh-cn/research/cognitive-locust-project' },
-			{ text: '研报', link: 'zh-cn/research/in-depath-research' },
+			{ text: '研报', link: 'zh-cn/research/in-depth-research' },
 			{ text: '黑客松创新追踪', link: 'zh-cn/research/hackathon-innovation-tracker' }
 		],
 		"技术公会": [
