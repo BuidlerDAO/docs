@@ -51,10 +51,10 @@ If you want to initiate in-depth research quickly, please refer to: [Buidler DAO
 
 ### Attachment: Flowchart
 
-![In-depth research flowchart](https://cdn.vitae3.me/public-static/103111230102333233.1679293308263.png)
+![In-depth Research Flowchart](https://cdn.vitae3.me/public-static/103111230102333233.1679293308263.png)
 
 ### SOP Precipitation
 
-- [In-depth research SOP](https://www.notion.so/SOP-12a57fda4258452cb9f90018a3feefbc)
+- [In-depth Research SOP](https://www.notion.so/SOP-12a57fda4258452cb9f90018a3feefbc)
 
 - [Invitation Research SOP](https://www.notion.so/SOP-66934721007942b09a431d85d2fb94b1)
