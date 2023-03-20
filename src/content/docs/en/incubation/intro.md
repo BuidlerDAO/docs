@@ -17,7 +17,7 @@ description: "INCUBATION intro"
 
 - Brand endorsement
   - Provide Buidler DAO's brand endorsement for incubating projects within DAO. Joint publicity and joint activities can be carried out under authorization
-- infrastructure
+- Infrastructure
   - Incubation projects in DAO can enjoy cloud services, data warehouses, contract auditing and other service support provided by ecological partners
 - Development support
   - 1k+ developers, covering various technology stacks, participate in project contributions based on POW, and provide auxiliary development support
@@ -25,7 +25,7 @@ description: "INCUBATION intro"
   - Assist in the cold start of the product, and about 7K+ users of DAO and community network can be used as early cold start users of the product
 - Market docking
   - Assist in market plan evaluation and implementation support, and provide resource links to dozens of media, project parties, and investors
-- financial support
+- Financial support
   - Retrospective Token airdrops, direct incubation funds, specific rules to be released by the DAO economic model
 
 ### 🐋 Notion
