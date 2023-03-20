@@ -1,6 +1,6 @@
 ---
 title: "In-depth Research"
-description: "In-depth Research-Research-BuidlerDao"
+description: "In-depth Research-Research-BuidlerDAO"
 ---
 
 ### In-depth research is the foundation of our guild, and we use words to accumulate cognition and create volume
