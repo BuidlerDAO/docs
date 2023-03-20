@@ -50,13 +50,19 @@ export const SIDEBAR: Sidebar = {
 			{ text: 'Introduction', link: 'en/education/intro' }
 		],
 		"RESEARCH": [
-			{ text: 'Introduction', link: 'en/research/intro' }
+			{ text: 'Introduction', link: 'en/research/intro' },
+			{ text: 'Cognitive Locust Project', link: 'en/research/cognitive-locust-project' },
+			{ text: 'In-depath Research', link: 'en/research/in-depath-research' },
+			{ text: 'Hackathon Innovation Tracker', link: 'en/research/hackathon-innovation-tracker' }
 		],
 		"TECHNOLOGY": [
-			{ text: 'Introduction', link: 'en/technology/intro' }
+			{ text: 'Introduction', link: 'en/technology/intro' },
+			{ text: 'Buidler Closed Meeting', link: 'en/technology/buidler-closed-meeting'}
 		],
 		"OPERATION": [
-			{ text: 'Introduction', link: 'en/operation/intro' }
+			{ text: 'Introduction', link: 'en/operation/intro' },
+			{ text: 'Buidler Space', link: 'en/operation/buidler-space' },
+			{ text: 'Buidler Talk', link: 'en/operation/buidler-talk' }
 		],
 		"Vitae3": [
 			{ text: 'Introduction', link: 'en/vitae3/intro' }
@@ -73,13 +79,19 @@ export const SIDEBAR: Sidebar = {
 			{ text: '引言', link: 'zh-cn/education/intro' }
 		],
 		"投研公会": [
-			{ text: '引言', link: 'zh-cn/research/intro' }
+			{ text: '引言', link: 'zh-cn/research/intro' },
+			{ text: '认知蝗虫计划', link: 'zh-cn/research/cognitive-locust-project' },
+			{ text: '研报', link: 'zh-cn/research/in-depath-research' },
+			{ text: '黑客松创新追踪', link: 'zh-cn/research/hackathon-innovation-tracker' }
 		],
 		"技术公会": [
-			{ text: '引言', link: 'zh-cn/technology/intro' }
+			{ text: '引言', link: 'zh-cn/technology/intro' },
+			{ text: 'Buidler闭门会', link: 'zh-cn/technology/buidler-closed-meeting'}
 		],
 		"运营公会": [
-			{ text: '引言', link: 'zh-cn/operation/intro' }
+			{ text: '引言', link: 'zh-cn/operation/intro' },
+			{ text: 'Buidler Space', link: 'zh-cn/operation/buidler-space' },
+			{ text: 'Buidler Talk', link: 'zh-cn/operation/buidler-talk' }
 		],
 		"Vitae3": [
 			{ text: '引言', link: 'zh-cn/vitae3/intro' }
