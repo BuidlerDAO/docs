@@ -20,7 +20,7 @@ description: "BuidlerDAO Brief"
 - Discord: [https://discord.gg/GmJCZmpFeH](https://t.co/qOQMME22d7)
 - Notion: [Buidler DAO Space](https://www.notion.so/Buidler-DAO-Space-8f30fcbb72d94c40b40e7b431cc71db0)
 
-### 1. Incubated Projects(till 2022.11)
+### Incubated Projects(till 2022.11)
 
 - **[Vitae3](https://www.vitae3.me)**
   - Build a next-generation value network based on SBT by migrating digital identities, analyzing data behavior, and helping communities issue original identities and contribution certifications.
@@ -45,7 +45,7 @@ description: "BuidlerDAO Brief"
 - **[Dorse](https://ethglobal.com/showcase/dorse-3maw4)**
   - Hackathon Project
 
-### 2. Influence
+### Influence
 
 1. Community: 
     - Discord: 5k+｜WeChat Group: 4k+｜Tech Community: 1k+
@@ -64,7 +64,7 @@ description: "BuidlerDAO Brief"
     - 6 online and offline pure technology closed-door sharing sessions
     - 2 community-developed technical tools and protocols
 
-### 3. Official Partnerships
+### Official Partnerships
 
 - Public Blockchain：ETH, Polygon, Move: Aptos & Sui, etc.
 - DAO: PlanckerDAO, Green Pills CN, Legal DAO, MoleDAO, HackerHouse, etc.

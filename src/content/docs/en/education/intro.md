@@ -11,7 +11,7 @@ description: "EDUCATION intro"
 >
 > We will build a high-quality, practice-oriented Web3 Deep Spring Academy, change thinking, and cultivate Web3 Buidlers.
 
-### ▪️ Welcome to the school
+### Welcome to the school
 
 **We prepare high-quality courses and believe that quality is far better than quantity; we invite big names to give speeches and respect the insights of Buidler in the industry;**
 

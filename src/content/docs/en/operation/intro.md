@@ -16,11 +16,11 @@ We will let the world see Buidler DAO, a beam of light rising into the sky in th
 
 The operating guild is the pillar of Buidler DAO and consists of four groups:
 
-▫️ `Internal management, guild collaboration`* (limited authority, official members can access)*
+- `Internal management, guild collaboration`* (limited authority, official members can access)*
 
-▫️ `Visual image output`* (limited permissions, official members can access)*
+- `Visual image output`* (limited permissions, official members can access)*
 
-▫️ `Resource accumulation, public relations processing`* (limited authority, official members can access)*
+- `Resource accumulation, public relations processing`* (limited authority, official members can access)*
 
 ### Notion
 

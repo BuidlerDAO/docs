@@ -37,7 +37,7 @@ description: "Buidler DAO 简介"
 ##### [投研公会](https://www.notion.so/f571385b1eda4f4b8c0acc7c585206ea)
 
 - 公会目标：组织研究员进行深度研究
-- 核心产品：深度研报（web3深度研究）；认知蝗虫计划（每日认知筛选）、黑客松创新追踪（最新项目研究）、buidler space（业内专家对话）、buidler talk （播客节目）
+- 核心产品：深度研报（web3深度研究）、认知蝗虫计划（每日认知筛选）、黑客松创新追踪（最新项目研究）、buidler space（业内专家对话）、buidler talk （播客节目）
 
 ##### [教育公会](https://www.notion.so/a2e9b124ffd4423eab23e55f68a8d4db)
 
@@ -98,7 +98,7 @@ Buidler DAO 孵化器基于人才与项目网络，面向早期/天使轮/种子
 	- FutureX从Web3线下活动切入，通过给用户提供活动凭证，为所有Web3从业者带来全新的线下活动体验，给所有Web3活动组织方提供一站式空投，NFT发放，社群治理，活动管理功能
 - **[SourceDAO](http://sourcedao.io/)**
   - 基于 DID 为 Web3.0 构建可信技能认证组件，通过 DAO 的形式建立具有公信力的认证专家委员会，并通过去中心化题库和考试的方式，为web3用户提供可信技能认证组建。目前已通过社区提案，产品方案详细设计中。
-- **[MetaShield](https://www.metashield.cc)**	
+- **[MetaShield](https://www.metashield.cc)**
   - MetaShield 是一款 Web3 防钓鱼插件，旨在保护加密资产。MetaShield 会实时监测高危交易行为，而非仅仅监测域名，利用黑白名单检查地址安全性，从而及时的预警和拦截高危交易行为。在今年的premint等大规模被盗事件中，我们的免费插件保护了 800 余位用户的加密资产。MetaShield 会实时监测 MetaMask 的高危交易行为、校验地址的状态与开源状况，充分透传信息，实时预警与拦截。目前已通过 Gitcoin Grants 审批，正式开启第15轮捐赠。
 - **iSnoopy**
   - iSnoopy 是一款帮助用户便捷及时的获取到 NFT 市场波动信息的数据监测产品。拥有包括地板价、蓝筹率等多种数据监测，用户可以根据自己的交易习惯灵活配置监控规则，当触发后给予提示，无需再花费大量时间盯盘，实现个性化的、千人千面的贴身数据获取服务，目前已完成开发，内测中
