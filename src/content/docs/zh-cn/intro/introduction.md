@@ -5,7 +5,7 @@ description: "Buidler DAO 简介"
 
 ![](https://cdn.vitae3.me/public-static/103330322211001310.1679049822451.png)
 
-> [Twitter](https://twitter.com/BuidlerDAO) | [Discord](https://discord.com/invite/GmJCZmpFeH) | [Bilibili](https://space.bilibili.com/12631227) | [Mirror](https://mirror.xyz/0xbuidlerdao.eth) | [Youtube](https://www.youtube.com/channel/UCO9TRqgc6Q-MMGy72_eGPNA) | [Podcast](https://www.xiaoyuzhoufm.com/podcast/5f33c9c59504bbdb779dffd5?s=eyJ1IjogIjVlN2NkY2ZjYjNjNWJjYTVmNjQxYTJiZiJ9) | 微信公众号: Buidler DAO
+> [Twitter](https://twitter.com/BuidlerDAO) | [Discord](https://discord.com/invite/GmJCZmpFeH) | [Bilibili](https://space.bilibili.com/12631227) | [Mirror](https://mirror.xyz/0xbuidlerdao.eth) | [YouTube](https://www.youtube.com/channel/UCO9TRqgc6Q-MMGy72_eGPNA) | [Podcast](https://www.xiaoyuzhoufm.com/podcast/5f33c9c59504bbdb779dffd5?s=eyJ1IjogIjVlN2NkY2ZjYjNjNWJjYTVmNjQxYTJiZiJ9) | 微信公众号: Buidler DAO
 
 ### 1. 什么是 Buidler DAO
 
@@ -25,7 +25,7 @@ description: "Buidler DAO 简介"
 ##### [孵化公会](https://www.notion.so/3746d7fc5bbd4ea782186e4a7b6e3670)
 
 - 公会目标：发起和参与项目、团队搭建、创业指导、渠道运营与资源对接
-- 核心产品：孵化流程与portfolio
+- 核心产品：孵化流程与Portfolio
 
 ##### [技术公会](https://www.notion.so/b487f0d496b14dc689559d2ec4de0b6e)
 
@@ -37,12 +37,12 @@ description: "Buidler DAO 简介"
 ##### [投研公会](https://www.notion.so/f571385b1eda4f4b8c0acc7c585206ea)
 
 - 公会目标：组织研究员进行深度研究
-- 核心产品：深度研报（web3深度研究）、认知蝗虫计划（每日认知筛选）、黑客松创新追踪（最新项目研究）、buidler space（业内专家对话）、buidler talk （播客节目）
+- 核心产品：深度研报（Web3深度研究）、认知蝗虫计划（每日认知筛选）、黑客松创新追踪（最新项目研究）、buidler space（业内专家对话）、buidler talk （播客节目）
 
 ##### [教育公会](https://www.notion.so/a2e9b124ffd4423eab23e55f68a8d4db)
 
 - 公会目标：输出实践课程、优质中文内容/项目英化、知识库搭建。
-- 核心产品：Buidler Mooc（web3实践教育课程）、开放麦（优质项目分享）、图书馆（系统化知识收录）、翻译空间（翻译中英优质信源）
+- 核心产品：Buidler Mooc（Web3实践教育课程）、开放麦（优质项目分享）、图书馆（系统化知识收录）、翻译空间（翻译中英优质信源）
 
 **协同与治理：**
 
@@ -60,7 +60,7 @@ description: "Buidler DAO 简介"
 
 ### 3. Buidler DAO 现有影响力
 
-> 🔗 [Twitter](https://twitter.com/BuidlerDAO) | [Discord](https://discord.com/invite/GmJCZmpFeH) | [Bilibili](https://space.bilibili.com/12631227) | [Mirror](https://mirror.xyz/0xbuidlerdao.eth) | [Youtube](https://www.youtube.com/channel/UCO9TRqgc6Q-MMGy72_eGPNA) | [Podcast](https://www.xiaoyuzhoufm.com/podcast/5f33c9c59504bbdb779dffd5?s=eyJ1IjogIjVlN2NkY2ZjYjNjNWJjYTVmNjQxYTJiZiJ9) | WeChat: Buidler DAO
+> 🔗 [Twitter](https://twitter.com/BuidlerDAO) | [Discord](https://discord.com/invite/GmJCZmpFeH) | [Bilibili](https://space.bilibili.com/12631227) | [Mirror](https://mirror.xyz/0xbuidlerdao.eth) | [YouTube](https://www.youtube.com/channel/UCO9TRqgc6Q-MMGy72_eGPNA) | [Podcast](https://www.xiaoyuzhoufm.com/podcast/5f33c9c59504bbdb779dffd5?s=eyJ1IjogIjVlN2NkY2ZjYjNjNWJjYTVmNjQxYTJiZiJ9) | WeChat: Buidler DAO
 
 #### 👥 社区
 
