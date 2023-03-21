@@ -13,7 +13,7 @@ description: "BuidlerDAO Brief"
 - **Incubation: 10+ projects in incubation now**
 - **Research:** Mirror: [https://mirror.xyz/0xbuidlerdao.eth](https://mirror.xyz/0xbuidlerdao.eth)
 - **Tech:** [https://twitter.com/BuidlerDAO](https://twitter.com/BuidlerDAO)
-- **Education:** Youtube- [https://www.youtube.com/channel/UCO9TRqgc6Q-MMGy72_eGPNA](https://www.youtube.com/channel/UCO9TRqgc6Q-MMGy72_eGPNA)
+- **Education:** YouTube: [https://www.youtube.com/channel/UCO9TRqgc6Q-MMGy72_eGPNA](https://www.youtube.com/channel/UCO9TRqgc6Q-MMGy72_eGPNA)
 - **Operation:** Discord: [https://discord.gg/GmJCZmpFeH](https://t.co/qOQMME22d7)
 ****
 - Linktree: [linktr.ee/buidlerdao](https://t.co/mEr5BtQvgn)
@@ -27,7 +27,7 @@ description: "BuidlerDAO Brief"
 - **[Nextme](https://nextme.one)**
   - Create the next generation of Web3 social portal and infrastructure Nextme DID + personalized social homepage, connect your Web2+3 social media, works, assets, contracts, etc.
 - **FutureX**
-	- Connect the user's on-chain and off-chain data, allowing them to fully display their personal background. Help each user create a new identity combining web2 and web3 through big data analysis and soul binding NFT	on the way.
+	- Connect the user's on-chain and off-chain data, allowing them to fully display their personal background. Help each user create a new identity combining Web2 and Web3 through big data analysis and soul binding NFT	on the way.
 - **[SourceDAO](http://sourcedao.io/)**
   - Build a trusted skills certification component for Web3 based on DID, and provide a credible skills certification platform.
 - **[MetaShield](https://www.metashield.cc)**	
